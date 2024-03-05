@@ -1,4 +1,4 @@
-package go-mqtt-client
+package gomqttclient
 
 import (
 	"fmt"
